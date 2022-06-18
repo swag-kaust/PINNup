@@ -1,5 +1,5 @@
 # PINNup
-The code for PINNup: Robust neural network wavefield solutions using frequency upscaling and neuron splitting (In preparing)
+The code for PINNup: Robust neural network wavefield solutions using frequency upscaling and neuron splitting.
 
 ## Citation
 If you find this repository useful, please cite:
